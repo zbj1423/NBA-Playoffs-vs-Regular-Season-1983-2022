@@ -1,10 +1,12 @@
 # NBA-Playoffs-vs-Regular-Season-1983-2022
 
 ## Introduction
-Watching playoff games in the NBA often feels very different from watching most regular season games. Accordingly, a lot of popular claims are made about playoff basketball: higher intensity, players play harder, defenses are better, more gameplan adjustments, slower pace, etc. This project compiled stats from the past 40 seasons of the NBA (using [nba_api](https://github.com/swar/nba_api)) to obtain quantitative measures of how playoffs differ from the regular season.
+Watching playoff games in the NBA often feels very different from watching most regular season games. Accordingly, a lot of popular claims are made about playoff basketball: higher intensity, players play harder, defenses are better, more gameplan adjustments, slower pace, etc. This project compiled team stats from the past 40 seasons of the NBA (using [nba_api](https://github.com/swar/nba_api)) to obtain quantitative measures of how playoffs differ from the regular season.
 
 ## Results
 The major differences in stats between playoffs and regular season (see graphs below for exact values): average points and offensive rating go down in the playoffs. Defensive rating goes up. All shooting percentage stats go down. More fouls are called and more free throws attempted. Teams have less turnovers and less total possessions. Assist stats all decrease, so maybe more iso-heavy possessions. Also, an interesting effect of playoff teams in 80s and 90s attempting more 3s in the playoffs vs. regular season compared to teams from 2007-2022.
+
+[barGraphs_playoffsMinusRegSeason]: https://imgur.com/a/l2PWT23
 
 
 ## Data and Methods
